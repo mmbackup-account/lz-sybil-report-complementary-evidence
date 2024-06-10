@@ -9,7 +9,27 @@ This complementary report contains airdrop cluster data with:
 1. The mapping from address-cluster to their corresponding arkham visualization url: [google drive url](https://drive.google.com/file/d/1lFfiGz3aegfvPybIapUQI5HxGn9RU5Zt/view?usp=sharing)
 2. The mapping from address-cluster to the consolidation tx hash linking the `from` address to the cluster identified: [google drive url](https://drive.google.com/drive/folders/1cH1K7vcYuFjbLL1_U8p_qNGV2exNlpjd?usp=sharing)
 
-We mapped this information ___for the 20 biggest airdrops___ we track. 
+We mapped this information ___for the 20 biggest airdrops___ we track:
+* $AEVO on Ethereum
+* $AIDOGE on Arbitrum
+* $AISHIB on Arbitrum
+* $ALT (Altlayer) on Ethereum
+* $ARB on Arbitrum
+* $ARKM on Ethereum
+* $AGI (Auragi Finance) on Arbitrum
+* $BLUR on Ethereum
+* $RADAR (DappRadar) on Ethereum
+* $DYDX on Ethereum
+* $ENS on Ethereum
+* $ETHFI on Ethereum
+* $GAL (Galxe) on Ethereum
+* $HFT (Hashflow) on Ethereum
+* $OMNI on Ethereum
+* $SOS (OpenDAO) on Ethereum
+* $OP on Optimism
+* $ZK (Polyhedra) on Ethereum
+* $REZ (Renzo) on Ethereum
+* $ID (Space ID) on BSC
 
 Out of the initial 210,188 distinct addresses and 341,562 address-cluster combination submitted, this complementary report covers:
 * 198,430 distinct addresses (94.4% of total)
